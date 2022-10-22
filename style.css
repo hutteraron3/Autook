@@ -12,11 +12,25 @@ tr,td,table{
     height:80px;
     margin-left:  100px;
     text-align: center;
+    
 }
+table {
+    color: red;
+    background-color: whitesmoke;
+}
+
 .kep{
-background-image: url(images/kepp.jfif);
 background-repeat: no-repeat;
-background-position: right;
+background-position-y:230px;
+background-position-x: 850px;
+background-size: 900px;
+image-resolution:inherit;
+background-image: url(images/bACK.PNG);
+background-color: seashell;
+
+
+
+
 
 
 }
