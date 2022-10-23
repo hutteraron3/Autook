@@ -9,7 +9,7 @@ tr,td,table{
     border: 5px solid black;
     border-collapse:collapse;
     width: 600px;
-    height:80px;
+    height:75px;
     margin-left:  100px;
     text-align: center;
     
@@ -34,7 +34,10 @@ background-color: seashell;
 
 
 }
-   
+.link {
+    color: red;
+    text-decoration: none;
+}   
     
 
 
