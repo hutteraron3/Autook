@@ -20,7 +20,7 @@ table {
     background-color: gray;
 }
 
-body {
+.kezdolap {
 background-repeat: no-repeat;
 background-position-y:230px;
 background-position-x: 850px;
@@ -42,6 +42,8 @@ background-color: black;
 }   
     
 
+
+    
 
 
 
