@@ -2,7 +2,7 @@
     height: 150px;
     background-color: brown;
     border: 5px solid white; 
-    padding: 0px 700px;
+    padding: 0px 720px;
     margin-bottom: 30px;
     
 }
@@ -20,7 +20,7 @@ table {
     background-color: gray;
 }
 
-.kep{
+body {
 background-repeat: no-repeat;
 background-position-y:230px;
 background-position-x: 850px;
