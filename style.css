@@ -27,12 +27,6 @@ background-position-x: 850px;
 background-size: 900px;
 image-resolution:inherit;
 background-image: url(images/bACK.PNG);
-background-color: black;
-
-
-
-
-
 
 }
 .link {
@@ -42,7 +36,10 @@ background-color: black;
 }   
     
 
-
+body {
+    background-color: black;
+    
+}
     
 
 
