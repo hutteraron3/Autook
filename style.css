@@ -3,21 +3,30 @@
     background-color: brown;
     border: 5px solid white; 
     padding: 0px 720px;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    margin: 10px 25px;
+    margin-bottom: 10px;
+    
+    
     
 }
 tr,td,table{
     border: 5px solid white;
     border-collapse:collapse;
-    width: 600px;
+    
     height:75px;
     margin-left:  100px;
     text-align: center;
     
 }
+th{
+    
+}
 table {
     color: darkred;
     background-color: gray;
+    width: 600px;
 }
 
 .kezdolap {
@@ -28,20 +37,36 @@ background-size: 900px;
 image-resolution:inherit;
 background-image: url(images/bACK.PNG);
 
+
 }
 .link {
     color: darkred;
     text-decoration: none;
     font-size:30px;
+    font-style: italic;
 }   
     
 
 body {
     background-color: black;
     
+    
+}
+div {
+        color:red;
+        font-size:x-large;
+       
+        
+    }
+
+li  {
+    list-style-image: url(images/logo3kicsi.png);
+}
+ 
+.link:hover {
+       font-size: xx-large;
 }
     
-
 
 
 
