@@ -11,22 +11,22 @@
     
     
 }
-tr,td,table{
+    
+    
+ 
+    
+
+    
+
+.kezdotabla, .kezdotabla tr {
+    color: darkred;
+    background-color: gray;
+    width: 600px; 
     border: 5px solid white;
     border-collapse:collapse;
-    
     height:75px;
     margin-left:  100px;
     text-align: center;
-    
-}
-th{
-    
-}
-table {
-    color: darkred;
-    background-color: gray;
-    width: 600px;
 }
 
 .kezdolap {
@@ -36,6 +36,7 @@ background-position-x: 850px;
 background-size: 900px;
 image-resolution:inherit;
 background-image: url(images/bACK.PNG);
+
 
 
 }
@@ -51,6 +52,7 @@ body {
     background-color: black;
     
     
+    
 }
 div {
         color:red;
@@ -59,17 +61,30 @@ div {
         
     }
 
-li  {
-    list-style-image: url(images/logo3kicsi.png);
-}
- 
 .link:hover {
        font-size: xx-large;
 }
     
+td {
+    color:red;
+    font-size:x-large;
+}
 
+.listajel {
+    margin-top: 5px;
+    margin bottom: 10px;
+    width: 50px;
+}
+.iowalemez {
+background-image: url(images/iowa3edited2.png) ;
+background-repeat: no-repeat;
+width: 1500px;
+background-position: center;
+background-position-x: 600px;
+background-size: 800px;
+image-resolution:  3000px;
 
-
+}
 
 
 
