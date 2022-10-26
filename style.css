@@ -85,7 +85,12 @@ td {
     
 }
 
-
+.slipknotlemez {
+    float: right;
+    width: 700px;
+    margin: 50px 200px 0 0px;
+    border: 10px double darkred;
+}
 
 
 
