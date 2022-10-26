@@ -74,17 +74,21 @@ td {
     margin-top: 5px;
     margin bottom: 10px;
     width: 50px;
-}
-.iowalemez {
-background-image: url(images/iowa3edited2.png) ;
-background-repeat: no-repeat;
-width: 1500px;
-background-position: center;
-background-position-x: 600px;
-background-size: 800px;
-image-resolution:  3000px;
 
 }
+.iowalemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0 0px;
+    border: 10px solid darkgray;
+    
+    
+}
+
+
+
+
+
 
 
 
