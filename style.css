@@ -72,7 +72,6 @@ td {
 
 .listajel {
     margin-top: 5px;
-    margin bottom: 10px;
     width: 50px;
 
 }
@@ -92,7 +91,12 @@ td {
     border: 10px double darkred;
 }
 
-
+.vol3lemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0 0px;
+    border: 10px groove darkred;
+}
 
 
 
