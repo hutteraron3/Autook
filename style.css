@@ -11,7 +11,11 @@
     
     
 }
-    
+.header {
+    float: left;
+    padding-left: 750px;
+    position: fixed;
+}
     
  
     
@@ -19,6 +23,7 @@
     
 
 .kezdotabla, .kezdotabla tr {
+    padding-top: 100px;
     color: darkred;
     background-color: gray;
     width: 600px; 
@@ -54,12 +59,6 @@ body {
     
     
 }
-div {
-        color:red;
-        font-size:x-large;
-       
-        
-    }
 
 .link:hover {
        font-size: xx-large;
@@ -75,30 +74,52 @@ td {
     width: 50px;
 
 }
+.slipknotlemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0px 0px;
+    border: 10px double darkred;
+}
 .iowalemez {
     float: right;
     width: 800px;
-    margin: 50px 200px 0 0px;
+    margin: 50px 200px 0px 0px;
     border: 10px solid darkgray;
-    
-    
 }
 
-.slipknotlemez {
-    float: right;
-    width: 700px;
-    margin: 50px 200px 0 0px;
-    border: 10px double darkred;
-}
+
 
 .vol3lemez {
     float: right;
     width: 800px;
-    margin: 50px 200px 0 0px;
+    margin: 50px 200px 0px 0px;
     border: 10px groove darkred;
 }
 
+.allhopeisgonelemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0px 0px;
+    border: 10px groove darkgoldenrod;
+}
 
+.graychapterlemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0px 0px;
+    border: 10px outset darkred;
+}
 
+.wearenotyourkindlemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0px 0px;
+    border: 10px groove whitesmoke;
+}
 
-
+.theendsofarlemez {
+    float: right;
+    width: 800px;
+    margin: 50px 200px 0px 0px;
+    border: 10px groove darkred;
+}
