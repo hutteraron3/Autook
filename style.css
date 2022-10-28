@@ -39,7 +39,6 @@ background-repeat: no-repeat;
 background-position-y:230px;
 background-position-x: 850px;
 background-size: 900px;
-image-resolution:inherit;
 background-image: url(images/bACK.PNG);
 
 
@@ -75,16 +74,22 @@ td {
 
 }
 .slipknotlemez {
+
     float: right;
     width: 800px;
     margin: 50px 200px 0px 0px;
     border: 10px double darkred;
+    position: fixed;
+    left: 45%;
+    
 }
 .iowalemez {
     float: right;
     width: 800px;
-    margin: 50px 200px 0px 0px;
+    margin: 50px 200px 0px 100px;
     border: 10px solid darkgray;
+    position: fixed;
+    left: 41%;
 }
 
 
@@ -94,6 +99,8 @@ td {
     width: 800px;
     margin: 50px 200px 0px 0px;
     border: 10px groove darkred;
+    position: fixed;
+    left: 46%; 
 }
 
 .allhopeisgonelemez {
@@ -101,6 +108,8 @@ td {
     width: 800px;
     margin: 50px 200px 0px 0px;
     border: 10px groove darkgoldenrod;
+    position: fixed;
+    left: 46.5%;
 }
 
 .graychapterlemez {
@@ -108,13 +117,17 @@ td {
     width: 800px;
     margin: 50px 200px 0px 0px;
     border: 10px outset darkred;
+    position: fixed;
+    left: 46%;
 }
 
 .wearenotyourkindlemez {
     float: right;
     width: 800px;
     margin: 50px 200px 0px 0px;
-    border: 10px groove whitesmoke;
+    position: fixed;
+    left: 47%;
+
 }
 
 .theendsofarlemez {
@@ -122,4 +135,6 @@ td {
     width: 800px;
     margin: 50px 200px 0px 0px;
     border: 10px groove darkred;
+    position: fixed;
+    left: 46.5%;
 }
