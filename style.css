@@ -3,18 +3,19 @@
     background-color: brown;
     border: 5px solid white; 
     padding: 0px 720px;
-    margin-bottom: 0px;
-    margin-left: 30px;
     margin: 10px 25px;
     margin-bottom: 10px;
+  
+    
     
     
     
 }
 .header {
-    float: left;
-    padding-left: 750px;
-    position: fixed;
+    float:right;
+    position:fixed;
+    width: 150px;
+    margin-bottom: 10px;
 }
     
  
@@ -61,8 +62,10 @@ body {
 
 .link:hover {
        font-size: xx-large;
+       
+       
 }
-    
+
 td {
     color:red;
     font-size:x-large;
@@ -91,8 +94,6 @@ td {
     position: fixed;
     left: 41%;
 }
-
-
 
 .vol3lemez {
     float: right;
@@ -137,4 +138,11 @@ td {
     border: 10px groove darkred;
     position: fixed;
     left: 46.5%;
+}
+
+.jel:hover {
+    background-image: url(images/hedör3.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
 }
