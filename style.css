@@ -41,9 +41,17 @@ background-position-y:230px;
 background-position-x: 850px;
 background-size: 900px;
 background-image: url(images/bACK.PNG);
+}
 
+body {
+    background-color: black;
+} 
 
-
+span:hover {
+    font-size: xx-large;
+}
+span {
+    font-size: 30px;
 }
 .link {
     color: darkred;
@@ -52,20 +60,38 @@ background-image: url(images/bACK.PNG);
     font-style: italic;
 }   
     
-
-body {
-    background-color: black;
-    
-    
-    
-}
-
 .link:hover {
-       font-size: xx-large;
-       
-       
+    font-size: xx-large;
+}
+.tdlink {
+    color: darkred;
+    text-decoration: none;
+    
+    
 }
 
+
+th:hover,td:hover{
+    background-image: url(images/jel2.png);
+    background-size: 65px;
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+}     
+.egy {
+    background-position: 185px;
+}
+.ketto {
+    background-position: 16px;
+}
+.harom {
+    background-position: 5px;
+}
+.negy {
+    background-position: 195px;
+}
+.öt {
+    background-position: 217px;
+}
 td {
     color:red;
     font-size:x-large;
@@ -140,9 +166,6 @@ td {
     left: 46.5%;
 }
 
-.jel:hover {
-    background-image: url(images/hedör3.png);
-    background-size: 50px;
-    background-repeat: no-repeat;
-    background-position: 10px 10px;
-}
+DISABLE
+    
+
