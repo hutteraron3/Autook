@@ -1,12 +1,9 @@
 .doboz {
     height: 150px;
-    background-color: brown;
-    border: 5px solid white; 
-    padding: 0px 720px;
-    margin: 10px 25px;
+    width: 1920px;
+    margin:-8px;
+    border-bottom: 10px groove whitesmoke;
     margin-bottom: 10px;
-  
-    
     
     
     
@@ -18,7 +15,7 @@
     margin-bottom: 10px;
 }
     
- 
+
     
 
     
@@ -52,6 +49,7 @@ span:hover {
 }
 span {
     font-size: 30px;
+    
 }
 .link {
     color: darkred;
@@ -71,7 +69,7 @@ span {
 }
 
 
-th:hover,td:hover{
+.kezdotabla th:hover,.kezdotabla td:hover{
     background-image: url(images/jel2.png);
     background-size: 65px;
     background-repeat: no-repeat;
@@ -81,16 +79,31 @@ th:hover,td:hover{
     background-position: 185px;
 }
 .ketto {
-    background-position: 16px;
+    background-position: 11px;
 }
 .harom {
     background-position: 5px;
 }
 .negy {
-    background-position: 195px;
+    background-position: 192px;
 }
 .öt {
     background-position: 217px;
+}
+.hat {
+    background-position: 50px;
+}
+.hét {
+    background-position: 135px;
+}
+.nyolc {
+     background-position: 110px;
+}
+.kilenc {
+     background-position: 110px;     
+}     
+.tíz {
+     background-position: 140px;
 }
 td {
     color:red;
@@ -166,6 +179,6 @@ td {
     left: 46.5%;
 }
 
-DISABLE
-    
+ /* DISABLE
+TEXT REPLACE */
 
