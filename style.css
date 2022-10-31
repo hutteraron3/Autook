@@ -1,27 +1,21 @@
 .doboz {
-    height: 150px;
-    width: 1920px;
+    height: 175px;
+    padding:10px 1422px 5px 100px;
     margin:-8px;
     border-bottom: 10px groove whitesmoke;
     margin-bottom: 10px;
-    
-    
-    
+    background-color: brown;
+    background-image: url(images/hatter101.png);
 }
+
 .header {
     float:right;
     position:fixed;
     width: 150px;
     margin-bottom: 10px;
 }
-    
-
-    
-
-    
 
 .kezdotabla, .kezdotabla tr {
-    padding-top: 100px;
     color: darkred;
     background-color: gray;
     width: 600px; 
