@@ -5,6 +5,7 @@
     border-bottom: 10px groove whitesmoke;
     margin-bottom: 10px;
     background-image: url(images/hatter101.png);
+   
 }
 
 .header {
@@ -53,12 +54,11 @@ span {
     
 .link:hover {
     font-size: xx-large;
+   
 }
 .tdlink {
     color: darkred;
     text-decoration: none;
-    
-    
 }
 
 
@@ -72,7 +72,7 @@ span {
     background-position: 185px;
 }
 .ketto {
-    background-position: 11px;
+    background-position: 20px;
 }
 .harom {
     background-position: 5px;
