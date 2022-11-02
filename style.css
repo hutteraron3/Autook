@@ -181,9 +181,20 @@ td {
     
 }
 
+.bandat {
+    background-color: red;
+    background-image: url(images/hatter10.png);
+    background-repeat: repeat-y;
+    background-size: 200%;
+    
+}
 
-
-
+#container {
+    background-color: black;
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
 
 
 
