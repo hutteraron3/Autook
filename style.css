@@ -50,10 +50,12 @@ span {
     text-decoration: none;
     font-size:30px;
     font-style: italic;
+    transition:0.5s
+    
 }   
     
 .link:hover {
-    font-size: xx-large;
+    transform: scale(1.1);
    
 }
 .tdlink {
@@ -171,6 +173,21 @@ td {
     position: fixed;
     left: 46.5%;
 }
+
+.vissza {
+    color: crimson;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+
+
+
 
  /* DISABLE
 TEXT REPLACE */
