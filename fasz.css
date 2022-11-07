@@ -50,7 +50,7 @@ span {
     text-decoration: none;
     font-size:30px;
     font-style: italic;
-    transition:.2s;
+    transition:.2s
     
 }   
     
@@ -187,13 +187,15 @@ td {
     background-image: url(images/hatter10.png);
     background-repeat: repeat-y;
     background-size: 500%;
-    color:darkred;
+    
 }
 
 #container {
-    
-   
+    background-color:black ;
+    color:darkred;
+    width: 1100px;
     margin: auto;
+    border: 10px solid rgb(65, 0, 0);
     padding: 10px;
 }
 
@@ -208,34 +210,21 @@ td {
 .kep2 {
     float:left;
     width: 500px;
-    margin: 5px 20px 20px 0px;
+    margin: 5px 20px 20px 0px ;
     border: 5px groove 
 }
-div p {
-
-   border: 5px groove white;
-   border-radius: 10px;
-   background-color: rgb(0, 0, 0);
-   margin:10px;
-   text-align: center;
-   padding:20px;
-   font-size: 20px;
+p{
+    padding:20px;
+    color: #fff;
+    border: 3px #fff solid ;
+    border-radius: 0.5cm;
+    background-color: rgb(100, 100, 100, 0.7);
 }
-.buborek {
-margin-left:525px;
-
+.bubi{
+    margin-right: 35%;
 }
-.buborek2 {
-    margin-right: 350px;
-
-}
-h1 {
-    color:whitesmoke;
-}
-
-#kezdetek {
-    float: left;
+.bubi2{
+    margin-left: 48%;
 }
  /* DISABLE
 TEXT REPLACE */
-
