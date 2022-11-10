@@ -16,6 +16,14 @@
     position: fixed;
 
 }
+.ize {
+    position: fixed;
+    color:whitesmoke;
+    font-size:75px;
+    text-shadow: 3px 3px 5px white;
+    margin: 50px 0px 0px 550px;
+    
+}
 .header {
     float:right;
     position:fixed;
@@ -183,18 +191,12 @@ td {
     left: 46.5%;
 }
 
-.vissza {
-    color: crimson;
-    font-size: 30px;
-    text-decoration: none;
-    
-}
 
 .bandat {
-    background-color: red;
+    
     background-image: url(images/hatter10.png);
     background-repeat: repeat-y;
-    background-size: 200%;
+    background-size: 400%;
     color:white;
     text-shadow: 2px 2px 10px black ;
 }
@@ -260,3 +262,18 @@ h2 {
  /* DISABLE
 TEXT REPLACE */
  
+footer {
+    text-transform: uppercase;
+    color: white;
+    font-size: x-large;
+    transition: 0.2s;
+    text-align: center;
+    text-shadow: 3px 3px 5px white;
+    margin:20px 540px 0px 540px;
+    
+}
+footer:hover {
+    transform: scale(1.1);
+    text-shadow: 3px 3px 5px red;
+    
+}
