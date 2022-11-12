@@ -16,6 +16,19 @@
     position: fixed;
 
 }
+.doboz3 {
+    height: 175px;
+    padding:10px 1422px 5px 100px;
+    margin:-8px;
+    border-bottom: 10px groove whitesmoke;
+  
+    background-image: url(images/hatter101.png);
+    position: fixed;
+    
+    
+    
+    
+}
 .ize {
     position: fixed;
     color:whitesmoke;
@@ -239,6 +252,7 @@ h1 {
     font-size:40px;
     text-shadow: 3px 3px 5px white;
     margin-top: 200px;
+    
 }
 h2 {
     color: whitesmoke;
@@ -247,12 +261,6 @@ h2 {
     text-shadow: 3px 3px 5px white;
     
 }
-
-
-
- /* DISABLE
-TEXT REPLACE */
- 
 footer {
     text-transform: uppercase;
     color: white;
@@ -280,4 +288,42 @@ footer:hover {
 .link2:active {
     color:white;
 }
+.coreytaylor {
+    width: 400px;
+    float: left;
+    
+    
+}
+
+#lenyeg {
+    padding: 10px;
+    width: 3000px;
+  
+}
+
+#coreytaylor {
+    width: 1000px;
+    border: 5px solid wheat;
+    
+   
+    
+    
+}
+
+
+.buborek3 {
+    width: 400px;
+    margin-left: 450px;
+    padding: 10px;
+   
+    
+    
+    
+}
+
+ .h12 {
+    text-align: left;
+    
+ }
+ 
 
