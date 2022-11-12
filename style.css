@@ -54,13 +54,6 @@ body {
     background-color: black;
 } 
 
-span:hover {
-    font-size: xx-large;
-}
-span {
-    font-size: 30px;
-    
-}
 .link {
     color: darkred;
     text-decoration: none;
@@ -255,9 +248,7 @@ h2 {
     
 }
 
-#kezdetek {
-    float: left;
-}
+
 
  /* DISABLE
 TEXT REPLACE */
@@ -269,7 +260,7 @@ footer {
     transition: 0.2s;
     text-align: center;
     text-shadow: 3px 3px 5px white;
-    margin:20px 540px 0px 540px;
+    margin:20px 535px 0px 535px;
     
 }
 footer:hover {
@@ -277,3 +268,16 @@ footer:hover {
     text-shadow: 3px 3px 5px red;
     
 }
+.link2 {
+    text-decoration: none;
+    letter-spacing: 1px;
+    
+}
+
+.link2:visited {
+    color: white;
+}
+.link2:active {
+    color:white;
+}
+
