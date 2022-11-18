@@ -288,35 +288,21 @@ footer:hover {
 }
 
 #container1 {
-    width: 840px;
-    padding-bottom:250px;
+    width: 510px;
+    padding-bottom:50px;
     float: left;
-    height: 400px;
-    margin-left:50px;
-    
-    
+    margin-left:-40px;
 }
-#container2 {
-    width: 935px;
-    padding-bottom:250px;
-    float: left;
-    height: 400px;
-    margin-left:50px;
-    
+
 
    
-}
 
-.coreytaylor {
-    width: 375px;
-    padding: 10px;
 
-}
+
 .buborek3 {
-    width: 350px;
-    float: right;
-    
    
+    margin-left:70px;
+    margin-right: 100px;
 }
 .meret {
     padding:0.1px
@@ -328,25 +314,37 @@ footer:hover {
     padding-top: 20px;
     
 }
-.jaywienberg {
-    width: 475px;
-    padding-top:10px ;
-    padding-right:5px ;
-    
+.jaywienberg {  
+    width: 440px;
+  
 }
 
  .clown {
-    width: 400px;
+    width: 440px;
+   
+  
+    
  }
 
 .mick {
-    width: 425px;
+    width: 440px;
+     
 }
-#container3 {
-    width: 850px;
-    padding-bottom:250px;
-    float: left;
-    height: 400px;
-    margin-left:50px;
+.coreytaylor {
+    width: 400px;
+    margin-left: 40px;
     
+    
+}
+
+.border {
+    border-radius: 75px;
+    border: 5px groove darkred;
+}
+.craig {
+    width: 440px;
+}
+
+.jim {
+    width: 440px;
 }
