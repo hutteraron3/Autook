@@ -316,9 +316,25 @@ footer:hover {
         padding-bottom:50px;
         float: left;
         margin-left:-460px;
+        
 }
-
-
+#container5 {
+    width: 510px;
+    padding-bottom:50px;
+    float: left;
+    margin-top: -72.5px;
+    margin-left:-25px;
+    
+    
+}
+#container6 {
+    width: 510px;
+    padding-bottom:50px;
+    float: left;
+    margin-left: -55px;
+    margin-top: -53.5px;
+    
+}
 .buborek3 {
    
     margin-left:70px;
@@ -328,6 +344,7 @@ footer:hover {
     margin-left:150px;
     margin-right: -150px;
 }
+
 .meret {
     padding:0.1px
 }
@@ -371,3 +388,10 @@ footer:hover {
     width: 800px;
 }
 
+.top {
+     margin-top: 0px;
+     text-align: center;
+     padding-left: 300px;
+    
+   
+}
