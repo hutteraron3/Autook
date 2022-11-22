@@ -21,11 +21,22 @@
     padding:10px 1422px 5px 100px;
     margin:-8px;
     border-bottom: 10px groove whitesmoke;
-  
     background-image: url(images/hatter101.png);
     position: fixed;
     
     
+    
+    
+}
+.doboz4 {
+    height: 175px;
+    padding:10px 1422px 5px 100px;
+    margin: -8px;
+    margin-top:-32px ;
+    border-bottom: 10px groove whitesmoke;
+    background-image: url(images/hatter101.png);
+    position: fixed;
+    margin-top: -350px;
     
     
 }
@@ -61,6 +72,7 @@ background-image: url(images/bACK.PNG);
 
 body {
     background-color: black;
+    color: darkred;
 } 
 
 .link {
@@ -90,7 +102,7 @@ body {
     background-position-y: 8px;
 }     
 .egy {
-    background-position: 185px;
+    background-position: 95px;
 }
 .ketto {
     background-position: 20px;
@@ -444,4 +456,42 @@ footer:hover {
 .buborek5 {
     margin-left:150px;
     margin-right: 300px;
+}
+
+ol {
+    font-size: xx-large;
+    margin-left: 700px;
+    margin-right: 800px;
+    border: 5px groove darkred;
+    padding:10px;
+    padding-left: 75px;
+    color: darkred;
+    text-decoration: none;
+    margin-top: 350px;
+    margin-bottom: -150px;
+    
+    
+    
+}
+.ol {
+    transition: .2s;
+}
+
+.ol:hover {
+    transform: scale(1.05);
+    text-decoration: none;
+}
+
+.youtube {
+    width: 400px;
+    margin-top: -400px;
+    
+}
+
+.instagram {
+    margin-top: -100px;
+}
+.spotify {
+    width: 400px;
+    margin-top: -50px;
 }
