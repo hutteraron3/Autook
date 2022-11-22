@@ -460,8 +460,8 @@ footer:hover {
 
 ol {
     font-size: xx-large;
-    margin-left: 700px;
-    margin-right: 800px;
+    margin-left: 1000px;
+    margin-right: 500px;
     border: 5px groove darkred;
     padding:10px;
     padding-left: 75px;
@@ -469,7 +469,7 @@ ol {
     text-decoration: none;
     margin-top: 350px;
     margin-bottom: -150px;
-    
+        
     
     
 }
@@ -490,8 +490,19 @@ ol {
 
 .instagram {
     margin-top: -100px;
+    
 }
 .spotify {
     width: 400px;
     margin-top: -50px;
+}
+
+#ikonok a {
+    padding-bottom: 100px;
+    
+}
+
+span {
+    color: darkred;
+    text-decoration: none;
 }
