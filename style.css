@@ -291,16 +291,19 @@ footer {
     text-align: center;
     text-shadow: 3px 3px 5px white;
     margin:20px 535px 0px 535px;
-    
 }
 footer:hover {
     transform: scale(1.1);
     text-shadow: 3px 3px 5px red;
     
 }
+ #container8 footer {
+    margin: 50px 0px 0px 300px;
+}
 .link2 {
     text-decoration: none;
     letter-spacing: 1px;
+    
     
 }
 
@@ -431,9 +434,14 @@ footer:hover {
 
 
 #container8 {
-    width: 510px;
+    width: 900px;
     padding-bottom:50px;
     float: left;
     margin-left:-10px;
     padding-top: 50px;
+}
+
+.buborek5 {
+    margin-left:150px;
+    margin-right: 300px;
 }
